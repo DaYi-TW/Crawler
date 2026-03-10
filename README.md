@@ -3,6 +3,10 @@
 自動爬取 [DailyView 網路溫度計](https://dailyview.tw) 的口碑聲量圖表與排行榜，將指定頁面元素截圖並擷取圖表數據，一鍵保存為 PNG。
 
 ---
+<img width="1792" height="1125" alt="圖片1" src="https://github.com/user-attachments/assets/37bf18f9-aa9f-4c89-9ef0-3134659af328" />
+
+
+---
 
 ## ✨ 功能
 
